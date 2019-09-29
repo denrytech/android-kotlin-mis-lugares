@@ -10,4 +10,5 @@
     <string name="label_phone">Phone</string>
     <string name="label_uri">URL</string>
     <string name="label_comment">Comment</string>
+    <string name="about_text">This program has been developed as an example in the Android course to demonstrate how new activities can be launched from the main activity.</string>
 </resources>
