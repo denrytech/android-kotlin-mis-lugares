@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mis Lugares</string>
+    <string name="action_show">Mostrar</string>
+    <string name="action_about">Acerca de</string>
+    <string name="action_settings">Preferencias</string>
+    <string name="action_exit">Salir</string>
+    <string name="label_name">Nombre</string>
+    <string name="label_type">Tipo</string>
+    <string name="label_address">Dirección</string>
+    <string name="label_phone">Teléfono</string>
+    <string name="label_uri">URL</string>
+    <string name="label_comment">Comentario</string>
+</resources>
